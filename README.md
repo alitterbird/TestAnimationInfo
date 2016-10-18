@@ -1,2 +1,2 @@
 # TestAnimationInfo
-阿斯顿发送地方
+测试git使用方法
